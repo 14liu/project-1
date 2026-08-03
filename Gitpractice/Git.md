@@ -25,9 +25,9 @@
 ## 5.新建文件/修改文件上传
 * 在资源管理器中新建LearningReport.tex文件写入内容并保存。
 ![Alt text](image.png)
-* 打开源代码管理,点击暂存更改
+* 打开源代码管理,点击暂存更改<br/>
 ![Alt text](image-1.png)
-* 输入提交信息add LearningReport.tex点击提交。
+* 输入提交信息add LearningReport.tex点击提交。<br/>
 ![Alt text](image-2.png)
 * 点击发布Branch,文件即出现在 GitHub仓库中。
 ![Alt text](eeb4e0cc2c636b9c8a2cfb16c1538f4c.png)
