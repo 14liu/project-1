@@ -1,6 +1,8 @@
 # Git实践
+
 ## 1.注册GitHub账号
 访问 github.com 点击 Sign up，按提示输入邮箱、用户名和密码，完成邮箱验证后即可登录。
+
 ## 2.在vscode中创建本地Git仓库
 步骤：
 * 在vscode中打开一个空文件夹，如下图所示。
@@ -25,14 +27,15 @@
 ## 5.新建文件/修改文件上传
 * 在资源管理器中新建LearningReport.tex文件写入内容并保存。
 ![Alt text](image.png)
-* 打开源代码管理,点击暂存更改
+* 打开源代码管理,点击暂存更改<br/>
 ![Alt text](image-1.png)
-* 输入提交信息add LearningReport.tex点击提交。
+* 输入提交信息add LearningReport.tex点击提交。<br/>
 ![Alt text](image-2.png)
 * 点击发布Branch,文件即出现在 GitHub仓库中。
 ![Alt text](eeb4e0cc2c636b9c8a2cfb16c1538f4c.png)
 ![Alt text](image-6.png)
 如果想要修改或删除文件，我们可以在资源管理器里面修改，然后在源代码管理里面进行提交即可。
+
 ## 6.添加README.md/LICENSE文件
 - 添加README.md文件
   - 在vscode上编写好文件。
